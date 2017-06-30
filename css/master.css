@@ -1,0 +1,35 @@
+.pantalla{
+  max-height: 550px;
+  height: 550px;
+  background-color: #111111;
+}
+
+.ht1{
+  font-family: 'Fredericka the Great', cursive;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+
+.contenido{
+  width: 50%;
+  color: white;
+  text-align: justify;
+  margin: auto;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 3%;
+}
+
+.botones{
+  padding-left: 3%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  height: 50px;
+  background-color: #F2F4F4;
+}
+
+button{
+  width: 24%;
+  margin: auto;
+}
